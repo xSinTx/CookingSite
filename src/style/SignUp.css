@@ -1,0 +1,36 @@
+.signUp{
+    color:  white;
+    margin-top: 0px;
+    font-size: 50px;
+}
+
+.signUp--text{
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.signUp--box{
+    padding:20px;
+    position:absolute;
+    top: 15%;
+    left: 35%;
+    border: 3px solid white;
+    border-radius: 20px;
+    background-color: tomato;
+}
+
+.signUp--button{
+  border: 2px solid tomato;
+  color: tomato;
+  margin-top: 20px;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.signUp--back{
+    background-color: #8cb865;
+
+}

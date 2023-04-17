@@ -1,0 +1,21 @@
+.recipeBox {
+    width: 500px;
+    height: 70px;
+    background: tomato;
+    padding: 10px;
+    margin-top: 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: left;
+}
+
+.recipeImage {
+    margin-right: 50px;
+}
+
+.recipeText {
+    color: white;
+    font-size: 15px;
+    text-align: left;
+}

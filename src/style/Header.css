@@ -1,0 +1,11 @@
+.headerBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+#header {
+    justify-content: flex-end;
+}
+
